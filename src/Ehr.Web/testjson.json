@@ -1,0 +1,3557 @@
+{
+  "message": "ok",
+  "applicants": [
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MjQ4MTE2Jk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=6F36102E36ADF46ECA49BC64B8FB635ED67C2C49&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248248116",
+          "Value": "248248116"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000013",
+          "Value": "C00000013"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-27 16:38:45"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": "ch"
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "999"
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": "13739185666"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "车三"
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-27 16:38:45"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "车三"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-27 16:38:45"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-27 16:38:45"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "ggg@126.com"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MjQ4MDE5Jk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=53699FF496FBAAA6C1919F5514BD179F095077CC&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248248019",
+          "Value": "248248019"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000012",
+          "Value": "C00000012"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-27 16:29:57"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": "ch"
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "904",
+          "Value": "直播平台"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "999"
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": "18651882954"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "904",
+          "Value": "直播平台"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "车二"
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "904"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-27 16:29:57"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "904",
+          "Value": "直播平台"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "车二"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-27 16:29:57"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-27 16:29:57"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "ccc@126.com"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "8696bcc8-0c02-47c1-8cdc-ba8c48392d2e",
+          "Value": "线上活动"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "8696bcc8-0c02-47c1-8cdc-ba8c48392d2e",
+          "Value": "线上活动"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MjM0ODkyJk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=3F6F1002EF8A18318947162D0FF7FABEAC5F0DC8&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248234892",
+          "Value": "248234892"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000010",
+          "Value": "C00000010"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-26 15:04:10"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": "ch"
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "999"
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": "13739185661"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "车车"
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-26 15:04:10"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "车车"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-26 15:04:10"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-26 15:04:10"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "che@126.com"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MjM0MjMzJk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=037137D133C6A4229986ABF099B728DF3DC80D35&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248234233",
+          "Value": "248234233"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000009",
+          "Value": "C00000009"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-26 15:03:08"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": "ch"
+        },
+        {
+          "PropertyName": "polity",
+          "PropertyShortName": "polity",
+          "Code": "1",
+          "Value": "中共党员"
+        },
+        {
+          "PropertyName": "CertificateType",
+          "PropertyShortName": "CertificateType",
+          "Code": "1",
+          "Value": "身份证"
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_ExamCategory4Sort",
+          "PropertyShortName": "R_ExamCategory4Sort",
+          "Code": "",
+          "Value": "9"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "HasChild",
+          "PropertyShortName": "HasChild",
+          "Code": "0",
+          "Value": "无"
+        },
+        {
+          "PropertyName": "IsAbroad",
+          "PropertyShortName": "IsAbroad",
+          "Code": "0",
+          "Value": "无"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "WorkStartTime",
+          "PropertyShortName": "WorkStartTime",
+          "Code": "",
+          "Value": "2021-03-26"
+        },
+        {
+          "PropertyName": "R_LastDiscipline",
+          "PropertyShortName": "R_LastDiscipline",
+          "Code": "",
+          "Value": "计算机科学与技术"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_ResidenceStates_P",
+          "PropertyShortName": "R_ResidenceStates_P",
+          "Code": "",
+          "Value": "3200 3201 320110"
+        },
+        {
+          "PropertyName": "WedState",
+          "PropertyShortName": "WedState",
+          "Code": "2",
+          "Value": "未婚"
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "JapaneseLevel",
+          "PropertyShortName": "JapaneseLevel",
+          "Code": "5",
+          "Value": "四级"
+        },
+        {
+          "PropertyName": "R_WorkYear4Sort",
+          "PropertyShortName": "R_WorkYear4Sort",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "EducationLevel",
+          "PropertyShortName": "EducationLevel",
+          "Code": "1",
+          "Value": "本科"
+        },
+        {
+          "PropertyName": "CertificateNumber",
+          "PropertyShortName": "CertificateNumber",
+          "Code": "",
+          "Value": "231004198609290016"
+        },
+        {
+          "PropertyName": "R_NativePlaces_P",
+          "PropertyShortName": "R_NativePlaces_P",
+          "Code": "",
+          "Value": "1400 1405 140505"
+        },
+        {
+          "PropertyName": "ZipCode",
+          "PropertyShortName": "ZipCode",
+          "Code": "",
+          "Value": "210000"
+        },
+        {
+          "PropertyName": "HighestDegree",
+          "PropertyShortName": "HighestDegree",
+          "Code": "2",
+          "Value": "学士"
+        },
+        {
+          "PropertyName": "ResidenceState",
+          "PropertyShortName": "ResidenceState",
+          "Code": "320110",
+          "Value": "江苏省南京市雨花台区"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": "18651882955"
+        },
+        {
+          "PropertyName": "R_EducationLevel4Sort",
+          "PropertyShortName": "R_EducationLevel4Sort",
+          "Code": "",
+          "Value": "70"
+        },
+        {
+          "PropertyName": "gender",
+          "PropertyShortName": "gender",
+          "Code": "0",
+          "Value": "男"
+        },
+        {
+          "PropertyName": "R_RPRs_P",
+          "PropertyShortName": "R_RPRs_P",
+          "Code": "",
+          "Value": "3200 3201 320110"
+        },
+        {
+          "PropertyName": "YearsOfWork",
+          "PropertyShortName": "YearsOfWork",
+          "Code": "99",
+          "Value": "在读学生"
+        },
+        {
+          "PropertyName": "Nation",
+          "PropertyShortName": "Nation",
+          "Code": "1",
+          "Value": "汉族"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "StudentFrom",
+          "PropertyShortName": "StudentFrom",
+          "Code": "320110",
+          "Value": "江苏省南京市雨花台区"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "车一"
+        },
+        {
+          "PropertyName": "evaluation",
+          "PropertyShortName": "evaluation",
+          "Code": "",
+          "Value": "很不错"
+        },
+        {
+          "PropertyName": "telephone",
+          "PropertyShortName": "telephone",
+          "Code": "",
+          "Value": "02510086"
+        },
+        {
+          "PropertyName": "CareerGoals",
+          "PropertyShortName": "CareerGoals",
+          "Code": "",
+          "Value": "非常棒"
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236 236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-26 15:03:08"
+        },
+        {
+          "PropertyName": "R_JapaneseLevel4Sort",
+          "PropertyShortName": "R_JapaneseLevel4Sort",
+          "Code": "",
+          "Value": "2"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "车一"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "NativePlace",
+          "PropertyShortName": "NativePlace",
+          "Code": "140505",
+          "Value": "山西省晋城市泽州县"
+        },
+        {
+          "PropertyName": "ExamCategory",
+          "PropertyShortName": "ExamCategory",
+          "Code": "9",
+          "Value": "托业"
+        },
+        {
+          "PropertyName": "GraduationDate",
+          "PropertyShortName": "GraduationDate",
+          "Code": "",
+          "Value": "2021-03-02"
+        },
+        {
+          "PropertyName": "R_StudentFroms_P",
+          "PropertyShortName": "R_StudentFroms_P",
+          "Code": "",
+          "Value": "3200 3201 320110"
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "EducationStudyMode",
+          "PropertyShortName": "EducationStudyMode",
+          "Code": "8",
+          "Value": "全国普通高等院校非全日制"
+        },
+        {
+          "PropertyName": "Birthday",
+          "PropertyShortName": "Birthday",
+          "Code": "",
+          "Value": "2021-03-01"
+        },
+        {
+          "PropertyName": "RPR",
+          "PropertyShortName": "RPR",
+          "Code": "320110",
+          "Value": "江苏省南京市雨花台区"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-26 14:20:00"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-26 15:03:08"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "cheicemoon@126.com"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MjAwMjUwJk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=B8930FAEB83435A8D653656510B2AA4AD58AC2F0&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248200250",
+          "Value": "248200250"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000008",
+          "Value": "C00000008"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:31"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_LastWorkEndDate",
+          "PropertyShortName": "R_LastWorkEndDate",
+          "Code": "",
+          "Value": "至今"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "ExpectSalary",
+          "PropertyShortName": "ExpectSalary",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "UnderEduSchoolIs985",
+          "PropertyShortName": "UnderEduSchoolIs985",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "IDPhoto",
+          "PropertyShortName": "IDPhoto",
+          "Code": null,
+          "Value": "//dfiles.tms.beisen.com/resume/430376/1616569651/7bc5f7743f874a38acb43f20adcb0f1f.jpeg?sig_a=beisen.recruitment.openapi&sig_t=1616836677&sig_npm=4&sig_v=1&sig=7d92d1c422a4051137ec50ac50a4cc49d0727f71"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_LastDiscipline",
+          "PropertyShortName": "R_LastDiscipline",
+          "Code": "",
+          "Value": "会计学"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "999"
+        },
+        {
+          "PropertyName": "R_ResidenceStates_P",
+          "PropertyShortName": "R_ResidenceStates_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_CurrJobCategory_P",
+          "PropertyShortName": "R_CurrJobCategory_P",
+          "Code": "137,180",
+          "Value": "财务·审计·统计类,财务经理"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_WorkYear4Sort",
+          "PropertyShortName": "R_WorkYear4Sort",
+          "Code": "",
+          "Value": "9"
+        },
+        {
+          "PropertyName": "EducationLevel",
+          "PropertyShortName": "EducationLevel",
+          "Code": "2",
+          "Value": "硕士研究生"
+        },
+        {
+          "PropertyName": "R_lastEducationLevel",
+          "PropertyShortName": "R_lastEducationLevel",
+          "Code": "2",
+          "Value": "硕士研究生"
+        },
+        {
+          "PropertyName": "R_LastCompany",
+          "PropertyShortName": "R_LastCompany",
+          "Code": "",
+          "Value": "北京某控股有限公司"
+        },
+        {
+          "PropertyName": "R_AllCompany",
+          "PropertyShortName": "R_AllCompany",
+          "Code": "",
+          "Value": "北京某控股有限公司 北京某建筑设计有限公司"
+        },
+        {
+          "PropertyName": "ResidenceState",
+          "PropertyShortName": "ResidenceState",
+          "Code": "-32767",
+          "Value": "北京市朝阳区"
+        },
+        {
+          "PropertyName": "R_EducationLevel4Sort",
+          "PropertyShortName": "R_EducationLevel4Sort",
+          "Code": "",
+          "Value": "80"
+        },
+        {
+          "PropertyName": "R_SchoolIs985",
+          "PropertyShortName": "R_SchoolIs985",
+          "Code": "",
+          "Value": "False"
+        },
+        {
+          "PropertyName": "R_LastPromotionChannelId",
+          "PropertyShortName": "R_LastPromotionChannelId",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_LastWorkJobDuty",
+          "PropertyShortName": "R_LastWorkJobDuty",
+          "Code": "",
+          "Value": "工作经验的时间采取倒叙形式，最近经历写在前面；工作经验的描述与目标岗位的招聘要求尽量匹配，用词精准；工作成果尽量以数据来呈现，突出个人成果以及做出的贡献；描述尽量具体简洁。如：\n1.为集团公司的财务核算、报表制作、预算分析和税务配置等板块提供近X年的稳健支持与运营管理；\n2.负责XX控股及下属XX家子公司的财务核算工作，包括编制资产负债表/利润表/现金流量表、日常账务处理、编制银行余额调节表等，对接内审外审，编制每月盈利预测；\n3.负责XX控股及下属所有子公司投资业务的核算及报表分析；\n4.负责消费金融业务线所有公司的单家报表分析，发现报表层面存在的问题，解释波动原因，并提示潜在的风险点；\n5.结账期间所有公司的结账检查、损益波动分析、科目异常检查；内部往来核对。"
+        },
+        {
+          "PropertyName": "YearsOfWork",
+          "PropertyShortName": "YearsOfWork",
+          "Code": "7",
+          "Value": "7年"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "1024",
+          "Value": "手动导入"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_CertNames",
+          "PropertyShortName": "R_CertNames",
+          "Code": "",
+          "Value": "中级会计师"
+        },
+        {
+          "PropertyName": "R_LastSchool",
+          "PropertyShortName": "R_LastSchool",
+          "Code": "-32767",
+          "Value": "北京某大学"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "1024",
+          "Value": "手动导入"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "张二"
+        },
+        {
+          "PropertyName": "R_LastSchoolTypeNew",
+          "PropertyShortName": "R_LastSchoolTypeNew",
+          "Code": "",
+          "Value": "4 "
+        },
+        {
+          "PropertyName": "AllUnderEduSchool",
+          "PropertyShortName": "AllUnderEduSchool",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_LastWorkStartDate",
+          "PropertyShortName": "R_LastWorkStartDate",
+          "Code": "",
+          "Value": "2013-06-01"
+        },
+        {
+          "PropertyName": "R_CurrJobCategory",
+          "PropertyShortName": "R_CurrJobCategory",
+          "Code": "180",
+          "Value": "财务经理"
+        },
+        {
+          "PropertyName": "evaluation",
+          "PropertyShortName": "evaluation",
+          "Code": "",
+          "Value": "篇幅不要太长控制在300字以内，做到突出自身符合目标岗位要求的卖点，避免过多使用形容词，而通过数据及实例对自身价值进行深化，如：会计研究生毕业，CPA，CFA一级，会计师中级职称。性格踏实、稳健，善于沟通和聆听，乐观向上。 有上市公司财务管理经验 在大型企业专注财务X年，擅长核算、预算、资产、报表分析等工作并有效满足公司相关需求，独立开展过财务信息系统的工作。"
+        },
+        {
+          "PropertyName": "R_AllIndustry",
+          "PropertyShortName": "R_AllIndustry",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_LastEduStartDate",
+          "PropertyShortName": "R_LastEduStartDate",
+          "Code": "",
+          "Value": "2008-07-01"
+        },
+        {
+          "PropertyName": "R_SchoolIs211",
+          "PropertyShortName": "R_SchoolIs211",
+          "Code": "",
+          "Value": "False"
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:31"
+        },
+        {
+          "PropertyName": "R_AllDiscipline",
+          "PropertyShortName": "R_AllDiscipline",
+          "Code": "",
+          "Value": "会计学"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "张二"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "GraduationDate",
+          "PropertyShortName": "GraduationDate",
+          "Code": "",
+          "Value": "2011-06-01"
+        },
+        {
+          "PropertyName": "R_AllDisciplineKind_P",
+          "PropertyShortName": "R_AllDisciplineKind_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "1024",
+          "Value": "手动导入"
+        },
+        {
+          "PropertyName": "R_LastEduEndDate",
+          "PropertyShortName": "R_LastEduEndDate",
+          "Code": "",
+          "Value": "2011-06-01"
+        },
+        {
+          "PropertyName": "R_AllCityOfStudy_P",
+          "PropertyShortName": "R_AllCityOfStudy_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "Birthday",
+          "PropertyShortName": "Birthday",
+          "Code": "",
+          "Value": "1992-01-01"
+        },
+        {
+          "PropertyName": "R_InitPromotionChannelId",
+          "PropertyShortName": "R_InitPromotionChannelId",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "UnderEduSchoolIs211",
+          "PropertyShortName": "UnderEduSchoolIs211",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "R_AllJobCategory_P",
+          "PropertyShortName": "R_AllJobCategory_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:31"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:31"
+        },
+        {
+          "PropertyName": "R_AllSchool",
+          "PropertyShortName": "R_AllSchool",
+          "Code": ",-32767",
+          "Value": "北京某大学"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [
+        [
+          {
+            "PropertyName": "CertificateDescription",
+            "PropertyShortName": "CertificateDescription",
+            "Code": null,
+            "Value": "证书"
+          },
+          {
+            "PropertyName": "CertificateName",
+            "PropertyShortName": "CertificateName",
+            "Code": null,
+            "Value": "中级会计师"
+          },
+          {
+            "PropertyName": "ObtainDate",
+            "PropertyShortName": "ObtainDate",
+            "Code": null,
+            "Value": "2009-08-01"
+          }
+        ]
+      ],
+      "ResumeForEducationList": [
+        [
+          {
+            "PropertyName": "EducationLevel",
+            "PropertyShortName": "EducationLevel",
+            "Code": "2",
+            "Value": "硕士研究生"
+          },
+          {
+            "PropertyName": "EndDate",
+            "PropertyShortName": "EndDate",
+            "Code": null,
+            "Value": "2011-06-01"
+          },
+          {
+            "PropertyName": "MajorName",
+            "PropertyShortName": "MajorName",
+            "Code": null,
+            "Value": "会计学"
+          },
+          {
+            "PropertyName": "SchoolName",
+            "PropertyShortName": "SchoolName",
+            "Code": "-32767",
+            "Value": "北京某大学"
+          },
+          {
+            "PropertyName": "StartDate",
+            "PropertyShortName": "StartDate",
+            "Code": null,
+            "Value": "2008-07-01"
+          }
+        ]
+      ],
+      "ResumeForExperienceList": [
+        [
+          {
+            "PropertyName": "CompanyName",
+            "PropertyShortName": "CompanyName",
+            "Code": null,
+            "Value": "北京某建筑设计有限公司"
+          },
+          {
+            "PropertyName": "EndDate",
+            "PropertyShortName": "EndDate",
+            "Code": null,
+            "Value": "2013-06-01"
+          },
+          {
+            "PropertyName": "JobDuty",
+            "PropertyShortName": "JobDuty",
+            "Code": null,
+            "Value": "1.为公司的日常账务管理、资产结账、成本核算等板块提供近X年的稳健支持与运营管理；2.熟练掌握SAP系统；负责固定资产采购订单签核、AP、转固、处置、减值等日常账务处理；\n3.每月固定资产结账，编制管理报表；每月编制资本支出、折旧滚动预测报表；编制年度资本预算；组织固定资产盘点；担任内部固定资产管理培训师；\n负责成本核算：参与年度预算编制，年度预算标准成本制定与维护，生产成本及销售成本核算，月末结账、编制相关管理报表及盈利预测报表，完成主管交办的其他工作。"
+          },
+          {
+            "PropertyName": "JobTitle",
+            "PropertyShortName": "JobTitle",
+            "Code": null,
+            "Value": "财务经理"
+          },
+          {
+            "PropertyName": "Salary",
+            "PropertyShortName": "Salary",
+            "Code": "-32767",
+            "Value": "10k-15k"
+          },
+          {
+            "PropertyName": "StartDate",
+            "PropertyShortName": "StartDate",
+            "Code": null,
+            "Value": "2011-06-01"
+          }
+        ],
+        [
+          {
+            "PropertyName": "CompanyName",
+            "PropertyShortName": "CompanyName",
+            "Code": null,
+            "Value": "北京某控股有限公司"
+          },
+          {
+            "PropertyName": "EndDate",
+            "PropertyShortName": "EndDate",
+            "Code": null,
+            "Value": "至今"
+          },
+          {
+            "PropertyName": "JobDuty",
+            "PropertyShortName": "JobDuty",
+            "Code": null,
+            "Value": "工作经验的时间采取倒叙形式，最近经历写在前面；工作经验的描述与目标岗位的招聘要求尽量匹配，用词精准；工作成果尽量以数据来呈现，突出个人成果以及做出的贡献；描述尽量具体简洁。如：\n1.为集团公司的财务核算、报表制作、预算分析和税务配置等板块提供近X年的稳健支持与运营管理；\n2.负责XX控股及下属XX家子公司的财务核算工作，包括编制资产负债表/利润表/现金流量表、日常账务处理、编制银行余额调节表等，对接内审外审，编制每月盈利预测；\n3.负责XX控股及下属所有子公司投资业务的核算及报表分析；\n4.负责消费金融业务线所有公司的单家报表分析，发现报表层面存在的问题，解释波动原因，并提示潜在的风险点；\n5.结账期间所有公司的结账检查、损益波动分析、科目异常检查；内部往来核对。"
+          },
+          {
+            "PropertyName": "JobTitle",
+            "PropertyShortName": "JobTitle",
+            "Code": null,
+            "Value": "高级财务经理"
+          },
+          {
+            "PropertyName": "Salary",
+            "PropertyShortName": "Salary",
+            "Code": "-32767",
+            "Value": "15k-20k"
+          },
+          {
+            "PropertyName": "StartDate",
+            "PropertyShortName": "StartDate",
+            "Code": null,
+            "Value": "2013-06-01"
+          }
+        ]
+      ],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [
+        [
+          {
+            "PropertyName": "CurrJobCategory",
+            "PropertyShortName": "CurrJobCategory",
+            "Code": "180",
+            "Value": "财务经理"
+          },
+          {
+            "PropertyName": "ExpectSalary",
+            "PropertyShortName": "ExpectSalary",
+            "Code": "-32767",
+            "Value": "20K-25K"
+          }
+        ]
+      ],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [
+        [
+          {
+            "PropertyName": "SkillLevel",
+            "PropertyShortName": "SkillLevel",
+            "Code": "3",
+            "Value": "熟练"
+          },
+          {
+            "PropertyName": "SkillName",
+            "PropertyShortName": "SkillName",
+            "Code": null,
+            "Value": "SAP"
+          }
+        ],
+        [
+          {
+            "PropertyName": "SkillName",
+            "PropertyShortName": "SkillName",
+            "Code": null,
+            "Value": "CPA"
+          }
+        ],
+        [
+          {
+            "PropertyName": "SkillName",
+            "PropertyShortName": "SkillName",
+            "Code": null,
+            "Value": "CFA"
+          }
+        ]
+      ],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MjAwMjQ5Jk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=63A6B7BE1A947FF22BDEFE8500D96B5CC8F33100&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248200249",
+          "Value": "248200249"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000007",
+          "Value": "C00000007"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:30"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_LastWorkEndDate",
+          "PropertyShortName": "R_LastWorkEndDate",
+          "Code": "",
+          "Value": "至今"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "ExpectSalary",
+          "PropertyShortName": "ExpectSalary",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "UnderEduSchoolIs985",
+          "PropertyShortName": "UnderEduSchoolIs985",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "IDPhoto",
+          "PropertyShortName": "IDPhoto",
+          "Code": null,
+          "Value": "//dfiles.tms.beisen.com/resume/430376/1616569650/013d43a4ac82463d81e67d404861443d.jpeg?sig_a=beisen.recruitment.openapi&sig_t=1616836677&sig_npm=4&sig_v=1&sig=38fddffef73be51dc9e8eb9fca22846600c7f9ef"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_LastDiscipline",
+          "PropertyShortName": "R_LastDiscipline",
+          "Code": "",
+          "Value": "土木工程"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_ResidenceStates_P",
+          "PropertyShortName": "R_ResidenceStates_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_CurrJobCategory_P",
+          "PropertyShortName": "R_CurrJobCategory_P",
+          "Code": "",
+          "Value": "建筑结构工程师"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_WorkYear4Sort",
+          "PropertyShortName": "R_WorkYear4Sort",
+          "Code": "",
+          "Value": "9"
+        },
+        {
+          "PropertyName": "EducationLevel",
+          "PropertyShortName": "EducationLevel",
+          "Code": "1",
+          "Value": "本科"
+        },
+        {
+          "PropertyName": "R_lastEducationLevel",
+          "PropertyShortName": "R_lastEducationLevel",
+          "Code": "1",
+          "Value": "本科"
+        },
+        {
+          "PropertyName": "R_LastCompany",
+          "PropertyShortName": "R_LastCompany",
+          "Code": "",
+          "Value": "北京某建筑设计院"
+        },
+        {
+          "PropertyName": "R_AllCompany",
+          "PropertyShortName": "R_AllCompany",
+          "Code": "",
+          "Value": "北京某建筑设计院"
+        },
+        {
+          "PropertyName": "ResidenceState",
+          "PropertyShortName": "ResidenceState",
+          "Code": "-32767",
+          "Value": "北京市朝阳区"
+        },
+        {
+          "PropertyName": "R_EducationLevel4Sort",
+          "PropertyShortName": "R_EducationLevel4Sort",
+          "Code": "",
+          "Value": "70"
+        },
+        {
+          "PropertyName": "gender",
+          "PropertyShortName": "gender",
+          "Code": "1",
+          "Value": "女"
+        },
+        {
+          "PropertyName": "R_SchoolIs985",
+          "PropertyShortName": "R_SchoolIs985",
+          "Code": "",
+          "Value": "False"
+        },
+        {
+          "PropertyName": "R_LastPromotionChannelId",
+          "PropertyShortName": "R_LastPromotionChannelId",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_LastWorkJobDuty",
+          "PropertyShortName": "R_LastWorkJobDuty",
+          "Code": "",
+          "Value": "工作经验的时间采取倒叙形式，最近经历写在前面；工作经验的描述与目标岗位的招聘要求尽量匹配，用词精准；工作成果尽量以数据来呈现，突出个人成果以及做出的贡献；描述尽量具体简洁。如：\n1.职责：在设计院主要从事XXX类型的建筑结构设计工作。参与审核各项目施工组织设计方案及重大技术方案。从工程前期资料整理、方案设计、结构布置及计算到出CAD施工蓝图等；擅长钢结构、门式钢架、钢桁架，混凝土框架结构、剪力墙结构、砌体结构、特种结构设计。熟悉地下走廊、混凝土髙壁浅仓和髙壁高仓等结构形式；\n2.业绩：共主导过XX个项目，其中XX个系XX级别。参与城市各业态建筑总体积约XX万立方米。擅长商业综合体、写字楼商场酒店和旅游小镇类建筑。比较有代表性的项目为XX和XX，期间在XX驻现场设计代表，主要负责图纸交底，并与甲方、监理、施工等联合协调解决现场突发技术问题。"
+        },
+        {
+          "PropertyName": "YearsOfWork",
+          "PropertyShortName": "YearsOfWork",
+          "Code": "7",
+          "Value": "7年"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "1024",
+          "Value": "手动导入"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_CertNames",
+          "PropertyShortName": "R_CertNames",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_LastSchool",
+          "PropertyShortName": "R_LastSchool",
+          "Code": "-32767",
+          "Value": "北京某大学"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "1024",
+          "Value": "手动导入"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "张三"
+        },
+        {
+          "PropertyName": "R_LastSchoolTypeNew",
+          "PropertyShortName": "R_LastSchoolTypeNew",
+          "Code": "",
+          "Value": "4 "
+        },
+        {
+          "PropertyName": "AllUnderEduSchool",
+          "PropertyShortName": "AllUnderEduSchool",
+          "Code": "",
+          "Value": " -32767"
+        },
+        {
+          "PropertyName": "R_LastWorkStartDate",
+          "PropertyShortName": "R_LastWorkStartDate",
+          "Code": "",
+          "Value": "2011-06-01"
+        },
+        {
+          "PropertyName": "R_CurrJobCategory",
+          "PropertyShortName": "R_CurrJobCategory",
+          "Code": "-32767",
+          "Value": "建筑结构工程师"
+        },
+        {
+          "PropertyName": "evaluation",
+          "PropertyShortName": "evaluation",
+          "Code": "",
+          "Value": "篇幅不要太长控制在300字以内，做到突出自身符合目标岗位要求的卖点，避免过多使用形容词，而通过数据及实例对自身价值进行深化，如：土木研究生毕业至今X年，在X级建筑设计院从事结构工程设计工作。 参与过X个XX万平米以上的大型公建、民建和商业综合体项目，包括写字楼、商场、公共设施等，具备X个项目的结构专业负责人经验。有XX证书，经验具有代表性的工程有X个，分别为：XXXXX、XXXX等。"
+        },
+        {
+          "PropertyName": "R_AllIndustry",
+          "PropertyShortName": "R_AllIndustry",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_LastEduStartDate",
+          "PropertyShortName": "R_LastEduStartDate",
+          "Code": "",
+          "Value": "2007-07-01"
+        },
+        {
+          "PropertyName": "R_SchoolIs211",
+          "PropertyShortName": "R_SchoolIs211",
+          "Code": "",
+          "Value": "False"
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:30"
+        },
+        {
+          "PropertyName": "R_AllDiscipline",
+          "PropertyShortName": "R_AllDiscipline",
+          "Code": "",
+          "Value": "土木工程"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "LastUnderEduSchool",
+          "PropertyShortName": "LastUnderEduSchool",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "张三"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "GraduationDate",
+          "PropertyShortName": "GraduationDate",
+          "Code": "",
+          "Value": "2011-06-01"
+        },
+        {
+          "PropertyName": "R_AllDisciplineKind_P",
+          "PropertyShortName": "R_AllDisciplineKind_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "1024",
+          "Value": "手动导入"
+        },
+        {
+          "PropertyName": "R_LastEduEndDate",
+          "PropertyShortName": "R_LastEduEndDate",
+          "Code": "",
+          "Value": "2011-06-01"
+        },
+        {
+          "PropertyName": "R_AllCityOfStudy_P",
+          "PropertyShortName": "R_AllCityOfStudy_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "Birthday",
+          "PropertyShortName": "Birthday",
+          "Code": "",
+          "Value": "1992-01-01"
+        },
+        {
+          "PropertyName": "R_InitPromotionChannelId",
+          "PropertyShortName": "R_InitPromotionChannelId",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "UnderEduSchoolIs211",
+          "PropertyShortName": "UnderEduSchoolIs211",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "R_AllJobCategory_P",
+          "PropertyShortName": "R_AllJobCategory_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:30"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-24 15:07:30"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "service@163.com"
+        },
+        {
+          "PropertyName": "R_AllSchool",
+          "PropertyShortName": "R_AllSchool",
+          "Code": ",-32767",
+          "Value": "北京某大学"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [
+        [
+          {
+            "PropertyName": "CertificateDescription",
+            "PropertyShortName": "CertificateDescription",
+            "Code": null,
+            "Value": "证书\n证书名称：\n建筑工程技术中级职称获得时间：2010.8"
+          }
+        ]
+      ],
+      "ResumeForEducationList": [
+        [
+          {
+            "PropertyName": "EducationLevel",
+            "PropertyShortName": "EducationLevel",
+            "Code": "1",
+            "Value": "本科"
+          },
+          {
+            "PropertyName": "EndDate",
+            "PropertyShortName": "EndDate",
+            "Code": null,
+            "Value": "2011-06-01"
+          },
+          {
+            "PropertyName": "MajorName",
+            "PropertyShortName": "MajorName",
+            "Code": null,
+            "Value": "土木工程"
+          },
+          {
+            "PropertyName": "SchoolName",
+            "PropertyShortName": "SchoolName",
+            "Code": "-32767",
+            "Value": "北京某大学"
+          },
+          {
+            "PropertyName": "StartDate",
+            "PropertyShortName": "StartDate",
+            "Code": null,
+            "Value": "2007-07-01"
+          }
+        ]
+      ],
+      "ResumeForExperienceList": [
+        [
+          {
+            "PropertyName": "CompanyName",
+            "PropertyShortName": "CompanyName",
+            "Code": null,
+            "Value": "北京某建筑设计院"
+          },
+          {
+            "PropertyName": "EndDate",
+            "PropertyShortName": "EndDate",
+            "Code": null,
+            "Value": "至今"
+          },
+          {
+            "PropertyName": "JobDuty",
+            "PropertyShortName": "JobDuty",
+            "Code": null,
+            "Value": "工作经验的时间采取倒叙形式，最近经历写在前面；工作经验的描述与目标岗位的招聘要求尽量匹配，用词精准；工作成果尽量以数据来呈现，突出个人成果以及做出的贡献；描述尽量具体简洁。如：\n1.职责：在设计院主要从事XXX类型的建筑结构设计工作。参与审核各项目施工组织设计方案及重大技术方案。从工程前期资料整理、方案设计、结构布置及计算到出CAD施工蓝图等；擅长钢结构、门式钢架、钢桁架，混凝土框架结构、剪力墙结构、砌体结构、特种结构设计。熟悉地下走廊、混凝土髙壁浅仓和髙壁高仓等结构形式；\n2.业绩：共主导过XX个项目，其中XX个系XX级别。参与城市各业态建筑总体积约XX万立方米。擅长商业综合体、写字楼商场酒店和旅游小镇类建筑。比较有代表性的项目为XX和XX，期间在XX驻现场设计代表，主要负责图纸交底，并与甲方、监理、施工等联合协调解决现场突发技术问题。"
+          },
+          {
+            "PropertyName": "JobTitle",
+            "PropertyShortName": "JobTitle",
+            "Code": null,
+            "Value": "结构工程师"
+          },
+          {
+            "PropertyName": "Salary",
+            "PropertyShortName": "Salary",
+            "Code": "-32767",
+            "Value": "15k-20k"
+          },
+          {
+            "PropertyName": "StartDate",
+            "PropertyShortName": "StartDate",
+            "Code": null,
+            "Value": "2011-06-01"
+          }
+        ]
+      ],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [
+        [
+          {
+            "PropertyName": "CurrJobCategory",
+            "PropertyShortName": "CurrJobCategory",
+            "Code": "-32767",
+            "Value": "建筑结构工程师"
+          },
+          {
+            "PropertyName": "ExpectSalary",
+            "PropertyShortName": "ExpectSalary",
+            "Code": "-32767",
+            "Value": "20k-25k"
+          }
+        ]
+      ],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [
+        [
+          {
+            "PropertyName": "EndDate",
+            "PropertyShortName": "EndDate",
+            "Code": null,
+            "Value": "2013-09-01"
+          },
+          {
+            "PropertyName": "Job",
+            "PropertyShortName": "Job",
+            "Code": null,
+            "Value": "结构工程师"
+          },
+          {
+            "PropertyName": "ProjectDescribe",
+            "PropertyShortName": "ProjectDescribe",
+            "Code": null,
+            "Value": "内容清晰，结果导向；2. 与目标申请岗位相结合，升华内容；3. 可参考 STAR 法则来写：Situation：在什么样的背景下？ Task：面临什么样的目标任务？ Action：针对当时的情况，采用了什么方法？ Result：结果怎样，学习到了什么？如：\n1. 该项目为新建五星酒店商业用楼，X 级建筑工程。单体建筑 X 万平米，园区 X 平米，X 平米车库；\n2. 作为该项目及主楼结构专业负责人，负责整体结构方案确定，结构缝布置和 XXX 的结构方案设计；\n3. 本项目按时按质通过交付标准，并已顺利运营 X 年，日流量 XX 人。\n通过本项目大幅提高\n了本人对 X 级项目的管理能力与难点技术解决能力，并获得 XX 授予 XX 贡献奖。通过提出与落实 XX 技术方案解决了项目难题（后述为案例之一），完成安全快速交付的目的。案例：本项目因商业综合体平面形状不规则，扭转效应明显，平面尺寸为 XxmXxxm，为超长超宽结构，混凝土的收缩应力及温度应力不容忽视，除设置收缩后浇带以外，在 XX 层处的楼板均施加了预应力以及 XX 方案，楼板配置 XX 的钢筋，楼面梁增加 XX 钢筋及腰筋根数。"
+          },
+          {
+            "PropertyName": "ProjectName",
+            "PropertyShortName": "ProjectName",
+            "Code": null,
+            "Value": "某五星酒店商业楼"
+          },
+          {
+            "PropertyName": "StartDate",
+            "PropertyShortName": "StartDate",
+            "Code": null,
+            "Value": "2011-09-01"
+          }
+        ]
+      ],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [
+        [
+          {
+            "PropertyName": "SkillLevel",
+            "PropertyShortName": "SkillLevel",
+            "Code": "-32767",
+            "Value": "擅长"
+          },
+          {
+            "PropertyName": "SkillName",
+            "PropertyShortName": "SkillName",
+            "Code": null,
+            "Value": "CAD"
+          }
+        ]
+      ],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MTk5ODExJk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=0A3D002C28723F77AA1D41B739448D6D54198AFE&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248199811",
+          "Value": "248199811"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000006",
+          "Value": "C00000006"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 14:50:31"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_ExamCategory4Sort",
+          "PropertyShortName": "R_ExamCategory4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "904",
+          "Value": "直播平台"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_LastDiscipline",
+          "PropertyShortName": "R_LastDiscipline",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "999"
+        },
+        {
+          "PropertyName": "R_ResidenceStates_P",
+          "PropertyShortName": "R_ResidenceStates_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "JapaneseLevel",
+          "PropertyShortName": "JapaneseLevel",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_WorkYear4Sort",
+          "PropertyShortName": "R_WorkYear4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "CertificateNumber",
+          "PropertyShortName": "CertificateNumber",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_NativePlaces_P",
+          "PropertyShortName": "R_NativePlaces_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "ZipCode",
+          "PropertyShortName": "ZipCode",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "HighestDegree",
+          "PropertyShortName": "HighestDegree",
+          "Code": "1",
+          "Value": "无"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_EducationLevel4Sort",
+          "PropertyShortName": "R_EducationLevel4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "R_RPRs_P",
+          "PropertyShortName": "R_RPRs_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "904",
+          "Value": "直播平台"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "刘正"
+        },
+        {
+          "PropertyName": "evaluation",
+          "PropertyShortName": "evaluation",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "telephone",
+          "PropertyShortName": "telephone",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "CareerGoals",
+          "PropertyShortName": "CareerGoals",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "904"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 14:50:31"
+        },
+        {
+          "PropertyName": "R_JapaneseLevel4Sort",
+          "PropertyShortName": "R_JapaneseLevel4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "904",
+          "Value": "直播平台"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "刘正"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "ExamCategory",
+          "PropertyShortName": "ExamCategory",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_StudentFroms_P",
+          "PropertyShortName": "R_StudentFroms_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-24 14:50:31"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-24 14:50:48"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "8696bcc8-0c02-47c1-8cdc-ba8c48392d2e",
+          "Value": "线上活动"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "8696bcc8-0c02-47c1-8cdc-ba8c48392d2e",
+          "Value": "线上活动"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MTk5NTU1Jk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=5E616D2799FA66424B78BBF551A0A1E90E70BE76&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248199555",
+          "Value": "248199555"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000004",
+          "Value": "C00000004"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 14:38:12"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_ExamCategory4Sort",
+          "PropertyShortName": "R_ExamCategory4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "IsAbroad",
+          "PropertyShortName": "IsAbroad",
+          "Code": "0",
+          "Value": "无"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "WorkStartTime",
+          "PropertyShortName": "WorkStartTime",
+          "Code": "",
+          "Value": "2018-03-08"
+        },
+        {
+          "PropertyName": "R_LastDiscipline",
+          "PropertyShortName": "R_LastDiscipline",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_ResidenceStates_P",
+          "PropertyShortName": "R_ResidenceStates_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "JapaneseLevel",
+          "PropertyShortName": "JapaneseLevel",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_WorkYear4Sort",
+          "PropertyShortName": "R_WorkYear4Sort",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "CertificateNumber",
+          "PropertyShortName": "CertificateNumber",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_NativePlaces_P",
+          "PropertyShortName": "R_NativePlaces_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "ZipCode",
+          "PropertyShortName": "ZipCode",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "HighestDegree",
+          "PropertyShortName": "HighestDegree",
+          "Code": "2",
+          "Value": "学士"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_EducationLevel4Sort",
+          "PropertyShortName": "R_EducationLevel4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "gender",
+          "PropertyShortName": "gender",
+          "Code": "1",
+          "Value": "女"
+        },
+        {
+          "PropertyName": "R_RPRs_P",
+          "PropertyShortName": "R_RPRs_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "YearsOfWork",
+          "PropertyShortName": "YearsOfWork",
+          "Code": "99",
+          "Value": "在读学生"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "董测试"
+        },
+        {
+          "PropertyName": "evaluation",
+          "PropertyShortName": "evaluation",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "telephone",
+          "PropertyShortName": "telephone",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "CareerGoals",
+          "PropertyShortName": "CareerGoals",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 14:38:12"
+        },
+        {
+          "PropertyName": "R_JapaneseLevel4Sort",
+          "PropertyShortName": "R_JapaneseLevel4Sort",
+          "Code": "",
+          "Value": "-32767"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "董测试"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "ExamCategory",
+          "PropertyShortName": "ExamCategory",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "GraduationDate",
+          "PropertyShortName": "GraduationDate",
+          "Code": "",
+          "Value": "2018-03-01"
+        },
+        {
+          "PropertyName": "R_StudentFroms_P",
+          "PropertyShortName": "R_StudentFroms_P",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "Birthday",
+          "PropertyShortName": "Birthday",
+          "Code": "",
+          "Value": "1998-04-02"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-24 14:38:12"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-24 15:06:42"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "1939806386@qq.com"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    },
+    {
+      "ElinkUrl": "https://recruitv5.tms.beisen.com/Elink/EApplicantInfo/ApplicantDetailInfo?tag=VGVuYW50SWQ9NDMwMzc2JkNyZWF0ZUJ5PTAmUGVyc29uSWQ9MjQ4MTk5MDMyJk9wdGlvbklkPTAmdHlwZT0wJlJlc3VtZUZpbHRlcklkPTAmTGFuZ3VhZ2U9emgtQ04mRWxpbmtUeXBlPSZSZW1hcmtJZD0maXNDdXJyZW50UGVyc29uT25seT0w&tagToken=9ED526A8AF8727C2059FC284BCABDBE1A8EA0F9E&ElinkID=0F7CE9A0-0CAF-45AB-A69A-0000D043A3A6&email=YXBpQGJlaXNlbmFwcC5jb201&tabs=cmVzdW1lLGludGVydmlldyxhY3Rpdml0eSxhdHRhY2htZW500",
+      "ApplicantProfile": [
+        {
+          "PropertyName": "personId",
+          "PropertyShortName": "personId",
+          "Code": "248199032",
+          "Value": "248199032"
+        },
+        {
+          "PropertyName": "CadidateId",
+          "PropertyShortName": "CadidateId",
+          "Code": "C00000003",
+          "Value": "C00000003"
+        },
+        {
+          "PropertyName": "R_Remark",
+          "PropertyShortName": "R_Remark",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_RemarkDate",
+          "PropertyShortName": "R_RemarkDate",
+          "Code": null,
+          "Value": null
+        },
+        {
+          "PropertyName": "R_InitializeApplyDate",
+          "PropertyShortName": "R_InitializeApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 14:07:05"
+        },
+        {
+          "PropertyName": "MobileType",
+          "PropertyShortName": "MobileType",
+          "Code": "",
+          "Value": "ch"
+        },
+        {
+          "PropertyName": "polity",
+          "PropertyShortName": "polity",
+          "Code": "1",
+          "Value": "中共党员"
+        },
+        {
+          "PropertyName": "CertificateType",
+          "PropertyShortName": "CertificateType",
+          "Code": "1",
+          "Value": "身份证"
+        },
+        {
+          "PropertyName": "R_CommonState",
+          "PropertyShortName": "R_CommonState",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_ExamCategory4Sort",
+          "PropertyShortName": "R_ExamCategory4Sort",
+          "Code": "",
+          "Value": "7"
+        },
+        {
+          "PropertyName": "R_BelongAcquireMannerId",
+          "PropertyShortName": "R_BelongAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "R_BelongSource",
+          "PropertyShortName": "R_BelongSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "HasChild",
+          "PropertyShortName": "HasChild",
+          "Code": "0",
+          "Value": "无"
+        },
+        {
+          "PropertyName": "IsAbroad",
+          "PropertyShortName": "IsAbroad",
+          "Code": "0",
+          "Value": "无"
+        },
+        {
+          "PropertyName": "R_IsTms",
+          "PropertyShortName": "R_IsTms",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "WorkStartTime",
+          "PropertyShortName": "WorkStartTime",
+          "Code": "",
+          "Value": "2021-03-24"
+        },
+        {
+          "PropertyName": "R_LastDiscipline",
+          "PropertyShortName": "R_LastDiscipline",
+          "Code": "",
+          "Value": "CET"
+        },
+        {
+          "PropertyName": "R_Gender4Sort",
+          "PropertyShortName": "R_Gender4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_ResidenceStates_P",
+          "PropertyShortName": "R_ResidenceStates_P",
+          "Code": "",
+          "Value": "1100"
+        },
+        {
+          "PropertyName": "WedState",
+          "PropertyShortName": "WedState",
+          "Code": "2",
+          "Value": "未婚"
+        },
+        {
+          "PropertyName": "R_RelationJobIds",
+          "PropertyShortName": "R_RelationJobIds",
+          "Code": "",
+          "Value": "230158690"
+        },
+        {
+          "PropertyName": "R_RelationJobCount",
+          "PropertyShortName": "R_RelationJobCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "JapaneseLevel",
+          "PropertyShortName": "JapaneseLevel",
+          "Code": "5",
+          "Value": "四级"
+        },
+        {
+          "PropertyName": "R_WorkYear4Sort",
+          "PropertyShortName": "R_WorkYear4Sort",
+          "Code": "",
+          "Value": "5"
+        },
+        {
+          "PropertyName": "EducationLevel",
+          "PropertyShortName": "EducationLevel",
+          "Code": "7",
+          "Value": "博士研究生"
+        },
+        {
+          "PropertyName": "CertificateNumber",
+          "PropertyShortName": "CertificateNumber",
+          "Code": "",
+          "Value": "421901938102823743819"
+        },
+        {
+          "PropertyName": "R_NativePlaces_P",
+          "PropertyShortName": "R_NativePlaces_P",
+          "Code": "",
+          "Value": "1100"
+        },
+        {
+          "PropertyName": "ZipCode",
+          "PropertyShortName": "ZipCode",
+          "Code": "",
+          "Value": "000010"
+        },
+        {
+          "PropertyName": "HighestDegree",
+          "PropertyShortName": "HighestDegree",
+          "Code": "6",
+          "Value": "博士"
+        },
+        {
+          "PropertyName": "ResidenceState",
+          "PropertyShortName": "ResidenceState",
+          "Code": "1100",
+          "Value": "北京市"
+        },
+        {
+          "PropertyName": "Mobile",
+          "PropertyShortName": "Mobile",
+          "Code": "",
+          "Value": "13925706836"
+        },
+        {
+          "PropertyName": "R_EducationLevel4Sort",
+          "PropertyShortName": "R_EducationLevel4Sort",
+          "Code": "",
+          "Value": "100"
+        },
+        {
+          "PropertyName": "gender",
+          "PropertyShortName": "gender",
+          "Code": "0",
+          "Value": "男"
+        },
+        {
+          "PropertyName": "R_RPRs_P",
+          "PropertyShortName": "R_RPRs_P",
+          "Code": "",
+          "Value": "1100 1117"
+        },
+        {
+          "PropertyName": "YearsOfWork",
+          "PropertyShortName": "YearsOfWork",
+          "Code": "3",
+          "Value": "3年"
+        },
+        {
+          "PropertyName": "Nation",
+          "PropertyShortName": "Nation",
+          "Code": "1",
+          "Value": "汉族"
+        },
+        {
+          "PropertyName": "R_InitializeMediumId",
+          "PropertyShortName": "R_InitializeMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_LastSource",
+          "PropertyShortName": "R_LastSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "StudentFrom",
+          "PropertyShortName": "StudentFrom",
+          "Code": "1100",
+          "Value": "北京市"
+        },
+        {
+          "PropertyName": "R_LastMediumId",
+          "PropertyShortName": "R_LastMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "R_Namepinyin",
+          "PropertyShortName": "R_Namepinyin",
+          "Code": "",
+          "Value": "测试032301"
+        },
+        {
+          "PropertyName": "evaluation",
+          "PropertyShortName": "evaluation",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "telephone",
+          "PropertyShortName": "telephone",
+          "Code": "",
+          "Value": "01020001"
+        },
+        {
+          "PropertyName": "CareerGoals",
+          "PropertyShortName": "CareerGoals",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_AllSources",
+          "PropertyShortName": "R_AllSources",
+          "Code": "",
+          "Value": "236"
+        },
+        {
+          "PropertyName": "R_LastApplyDate",
+          "PropertyShortName": "R_LastApplyDate",
+          "Code": "",
+          "Value": "2021-03-24 14:07:05"
+        },
+        {
+          "PropertyName": "R_JapaneseLevel4Sort",
+          "PropertyShortName": "R_JapaneseLevel4Sort",
+          "Code": "",
+          "Value": "2"
+        },
+        {
+          "PropertyName": "R_LastAcquireMannerId",
+          "PropertyShortName": "R_LastAcquireMannerId",
+          "Code": "1",
+          "Value": "主动投递"
+        },
+        {
+          "PropertyName": "InviteUpdateResumeStatus",
+          "PropertyShortName": "InviteUpdateResumeStatus",
+          "Code": "0",
+          "Value": "未邀请"
+        },
+        {
+          "PropertyName": "R_LastRelationJob",
+          "PropertyShortName": "R_LastRelationJob",
+          "Code": "230158690",
+          "Value": "测试职位1"
+        },
+        {
+          "PropertyName": "R_InviteTestCount4Sort",
+          "PropertyShortName": "R_InviteTestCount4Sort",
+          "Code": "",
+          "Value": "0"
+        },
+        {
+          "PropertyName": "R_InitializeSource",
+          "PropertyShortName": "R_InitializeSource",
+          "Code": "236",
+          "Value": "前程网申"
+        },
+        {
+          "PropertyName": "Name",
+          "PropertyShortName": "Name",
+          "Code": "",
+          "Value": "测试032301"
+        },
+        {
+          "PropertyName": "R_IsDeleted",
+          "PropertyShortName": "R_IsDeleted",
+          "Code": "0",
+          "Value": "否"
+        },
+        {
+          "PropertyName": "NativePlace",
+          "PropertyShortName": "NativePlace",
+          "Code": "1100",
+          "Value": "北京市"
+        },
+        {
+          "PropertyName": "ExamCategory",
+          "PropertyShortName": "ExamCategory",
+          "Code": "7",
+          "Value": "雅思"
+        },
+        {
+          "PropertyName": "GraduationDate",
+          "PropertyShortName": "GraduationDate",
+          "Code": "",
+          "Value": "2021-03-24"
+        },
+        {
+          "PropertyName": "R_StudentFroms_P",
+          "PropertyShortName": "R_StudentFroms_P",
+          "Code": "",
+          "Value": "1100"
+        },
+        {
+          "PropertyName": "R_BelongMediumId",
+          "PropertyShortName": "R_BelongMediumId",
+          "Code": "8192",
+          "Value": "手动新增"
+        },
+        {
+          "PropertyName": "EducationStudyMode",
+          "PropertyShortName": "EducationStudyMode",
+          "Code": "1",
+          "Value": "全国普通高等院校全日制"
+        },
+        {
+          "PropertyName": "Birthday",
+          "PropertyShortName": "Birthday",
+          "Code": "",
+          "Value": "2021-03-24"
+        },
+        {
+          "PropertyName": "RPR",
+          "PropertyShortName": "RPR",
+          "Code": "1117",
+          "Value": "北京市崇文区"
+        },
+        {
+          "PropertyName": "R_InviteTestCount",
+          "PropertyShortName": "R_InviteTestCount",
+          "Code": "",
+          "Value": ""
+        },
+        {
+          "PropertyName": "R_ApplyCount",
+          "PropertyShortName": "R_ApplyCount",
+          "Code": "",
+          "Value": "1"
+        },
+        {
+          "PropertyName": "R_CreateDate",
+          "PropertyShortName": "R_CreateDate",
+          "Code": "",
+          "Value": "2021-03-24 14:07:05"
+        },
+        {
+          "PropertyName": "R_UpdateDate",
+          "PropertyShortName": "R_UpdateDate",
+          "Code": "",
+          "Value": "2021-03-24 14:52:15"
+        },
+        {
+          "PropertyName": "email",
+          "PropertyShortName": "email",
+          "Code": "",
+          "Value": "testyurun@yurun.com"
+        },
+        {
+          "PropertyName": "R_LastSourceType",
+          "PropertyShortName": "R_LastSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        },
+        {
+          "PropertyName": "R_InitializeSourceType",
+          "PropertyShortName": "R_InitializeSourceType",
+          "Code": "266646c0-39e2-49c8-935d-a16ec2b354f1",
+          "Value": "招聘网站"
+        }
+      ],
+      "AssesmentResult": [],
+      "ResumeForAdditionalInfoList": [],
+      "ResumeForAddressInfoList": [],
+      "ResumeForAttachmentsList": [],
+      "ResumeForAwardsWonList": [],
+      "ResumeForCertificateList": [],
+      "ResumeForEducationList": [],
+      "ResumeForExperienceList": [],
+      "ResumeForFamilyList": [],
+      "ResumeForInternshipList": [],
+      "ResumeForLangList": [],
+      "ResumeForObjectiveList": [],
+      "ResumeForPayCardInfoList": [],
+      "ResumeForProjectList": [],
+      "ResumeForPublishedList": [],
+      "ResumeForQuestionList": [],
+      "ResumeForSchoolOfficeList": [],
+      "ResumeForSchoolPracticeList": [],
+      "ResumeForSkillList": [],
+      "ResumeForTeamManagerList": [],
+      "ResumeForTrainList": [],
+      "ResumeForRelativesDeclarationList": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "IpRateLimiting": {
+        "EnableEndpointRateLimiting": true,
+        "StackBlockedRequests": false,
+        "RealIpHeader": "X-Real-IP",
+        "ClientIdHeader": "X-ClientId",
+        "HttpStatusCode": 429,
+        "QuotaExceededResponse": {
+            "Content": "{{\"code\":429,\"message\":\"访问过于频繁，请稍后重试\"}}",
+            "ContentType": "application/json",
+            "StatusCode": 429
+        },
+        "IpWhitelist": [],
+        "EndpointWhitelist": [],
+        "ClientWhitelist": [],
+        "GeneralRules": [{
+            "Endpoint": "*",
+            "Period": "1s", 
+            "Limit": 10
+        }]
+    },
+    "IpRateLimitPolicies": {
+        "IpRules": [{
+            "Ip": "192.168.1.1",
+            "Rules": [{
+                "Endpoint": "*",
+                "Period": "1s",
+                "Limit": 10
+            }]
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\Ehr.Contracts\Ehr.Contracts.csproj" />
+    <ProjectReference Include="..\Ehr.Infrastructure\Ehr.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Hangfire.Core" Version="1.7.19" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.4" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.5.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EhrDlls">
+      <HintPath>..\Ehr.Ref\EhrDlls.dll</HintPath>
+    </Reference>
+    <Reference Include="topsdk-net-core">
+      <HintPath>..\Ehr.Ref\topsdk-net-core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+</Project>
